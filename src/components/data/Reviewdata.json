@@ -1,64 +1,64 @@
 {
-    "carddata" : [
+    "carddata": [
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/women/6.jpg",
+            "name": "SynthGen AI",
+            "username": "@synthgenai",
+            "fromlogo": "logos:twitter",
+            "review": "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
+            "likes": "143",
+            "comments": "34",
+            "timedate": "3:42 PM · Feb 12, 2025"
         },
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/men/24.jpg",
+            "name": "NeuralScribe",
+            "username": "@neuralscribe",
+            "fromlogo": "logos:twitter",
+            "review": "Fast-tracking our listing was the best marketing decision we made. Went from zero to 500+ daily users in just two weeks! EliteAI.tools put us in front of the perfect audience.",
+            "likes": "272",
+            "comments": "53",
+            "timedate": "11:28 AM · Jan 29, 2025"
         },
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/men/54.jpg",
+            "name": "QuantumWrite",
+            "username": "@quantumwriteai",
+            "fromlogo": "logos:twitter",
+            "review": "As a bootstrapped startup, we needed cost-effective promotion. The Boosted plandelivered incredible ROI - our demo requests increased 3x in the first month alone. Highly recommend!",
+            "likes": "189",
+            "comments": "42",
+            "timedate": "4:15 PM · Feb 3, 2025"
         },
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/women/53.jpg",
+            "name": "VoiceGenius",
+            "username": "@voicegeniusai",
+            "fromlogo": "logos:twitter",
+            "review": "The SEO boost from being listed on EliteAI.tools is incredible. We've climbed to the first page for several key search terms. The quality of traffic converts at nearly 2x our other channels.",
+            "likes": "167",
+            "comments": "32",
+            "timedate": "2:10 PM · Jan 18, 2025"
         },
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/women/43.jpg",
+            "name": "DataSage",
+            "username": "@datasageai",
+            "fromlogo": "logos:twitter",
+            "review": "We tried several directories but EliteAI.tools stands out. The curation process means you're alongside other quality tools, which gives users confidence. Our conversions are up 35% from this traffic!",
+            "likes": "201",
+            "comments": "21",
+            "timedate": "10:23 AM · Feb 8, 2025"
         },
         {
-            "img" : "https://randomuser.me/api/portraits/women/6.jpg",
-            "name" : "SynthGen AI",
-            "username" : "@synthgenai",
-            "fromlogo" : "logos:twitter",
-            "review" : "Listing on EliteAI.tools gave us a 40% boost in signups! The quality of traffic is incredible - these are users who are actually looking for AI solutions. Worth every penny!",
-            "likes" : "143",
-            "comments" : "34",
-            "timedate" : "3:42 PM · Feb 12, 2025"
+            "img": "https://randomuser.me/api/portraits/men/62.jpg",
+            "name": "CopyMuse",
+            "username": "@copymuseai",
+            "fromlogo": "logos:twitter",
+            "review": "Investors actually mentioned seeing us on EliteAI.tools during our seed round! The directory has become a go-to resource for the industry. Still getting consistent traffic 6 months after listing.",
+            "likes": "175",
+            "comments": "31",
+            "timedate": "1:35 PM · Jan 22, 2025"
         }
     ]
 }
