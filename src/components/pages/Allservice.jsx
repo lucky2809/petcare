@@ -35,7 +35,7 @@ function Allservice() {
                     <div className='flex justify-between gap-2'>
                            <p>Pet</p>
                            <select className='rounded-[5px] border-1 px-7 py-1' name="" id="">
-                            <option className='' value="">1</option>
+                            <option value="">1</option>
                             <option value="">2</option>
                             <option value="">3</option>
                             <option value="">4</option>

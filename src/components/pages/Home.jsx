@@ -21,7 +21,7 @@ function Home() {
 </div>
 <div>
 <button className='p-4 border-1 max-sm:w-full max-sm:border-1 max-sm:border-gray-400 font-semibold flex gap-1 items-center justify-center border-white rounded-[6px] hover:bg-white hover:text-black hover:border-1 hover:border-black cursor-pointer'>Learn more
-    <div><Icon className="mt-1" width={10} icon={"weui:arrow-outlined"} />
+    <div className=' transition-transform hover:shadow-lg hover:-translate-y-1'><Icon className="mt-1" width={10} icon={"weui:arrow-outlined"} />
     </div>
 </button>
 </div>

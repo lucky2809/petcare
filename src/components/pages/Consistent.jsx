@@ -18,7 +18,7 @@ console.log(ishover)
             </div>
 
             <div  className='w-full flex max-sm:flex-col gap-20 max-sm:gap-10 p-10 px-20 max-sm:px-10'>
-                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border flex flex-col gap-6 border-gray-200 shadow-lg w-full p-5 py-10'>
+                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border flex flex-col gap-6 border-gray-200 shadow-lg w-full p-5 py-10 transition-transform hover:shadow-lg hover:-translate-y-1'>
                     <div className={`flex justify-center ${ishover ? "hover:scale-110" || "duration-200" : "" }`}>
                     <div className='p-4 shadow-2xl rounded-full w-fit '>
                     <Icon className="text-sky-700" width={35} icon={"bxl:telegram"} />
@@ -29,7 +29,7 @@ console.log(ishover)
                         <p className='text-center'>Find yourself heading out of town unexpectedly? There is no need to stress about finding care for your pet</p>
                     </div>
                 </div>
-                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border border-gray-200 flex flex-col gap-6 shadow-lg w-full p-5 py-10'>
+                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border border-gray-200 flex flex-col gap-6 shadow-lg w-full p-5 py-10 transition-transform hover:shadow-lg hover:-translate-y-1'>
                     <div className={`flex justify-center ${ishover ? "hover:scale-110" || "duration-200" : "" }`}>
                         <div className='p-4 shadow-2xl rounded-full w-fit'>
                     <Icon className="text-pink-400 " width={35} icon={"ic:outline-watch-later"} />
@@ -41,7 +41,7 @@ console.log(ishover)
                         Spending cnother day</p>
                     </div>
                 </div>
-                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border border-gray-200 shadow-lg flex flex-col gap-6 w-full p-5 py-10'>
+                <div onMouseOver={Hovertrue} onMouseLeave={Hoverfalse} className='border border-gray-200 shadow-lg flex flex-col gap-6 w-full p-5 py-10 transition-transform hover:shadow-lg hover:-translate-y-1'>
                     <div className={`flex justify-center ${ishover ? "hover:scale-110" || "duration-200" : "" }`}>
                     <div className=' p-4 shadow-2xl rounded-full w-fit '>
                     <Icon className="text-yellow-700" width={35} icon={"simple-line-icons:calender"} />
